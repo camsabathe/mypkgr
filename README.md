@@ -3,7 +3,7 @@
 mypkgr
 ======
 
-GOOD
+The goal of mypkgr is to tester git hub pour la formation
 
 Installation
 ------------
