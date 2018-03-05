@@ -37,6 +37,8 @@
 # }
 
 
+# sdfsdf
+
 #' fonction normale multivariee pour la densite
 #'  description
 #' @param x les points
