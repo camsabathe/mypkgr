@@ -4,6 +4,7 @@ mypkgr
 ======
 
 The goal of mypkgr is to tester git hub pour la formation
+J'ai modifié ton readMe ! 
 
 Installation
 ------------
