@@ -14,7 +14,11 @@ knitr::opts_chunk$set(
 
 # mypkgr
 
+<<<<<<< HEAD
 The goal of mypkgr is to tester git hub pour la formation, MOI
+=======
+The goal of mypkgr is to tester git hub pour la formation, yes, SCL, Pour test conflit
+>>>>>>> f5a6b57cb8dafede2bb0c2ad686951f2eb257013
 
 ## Installation
 
