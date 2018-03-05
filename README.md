@@ -3,7 +3,7 @@
 mypkgr
 ======
 
-The goal of mypkgr is to tester git hub pour la formation
+The goal of mypkgr is to tester git hub pour la formation, yes, SCL
 
 Installation
 ------------
